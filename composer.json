@@ -1,0 +1,17 @@
+{
+    "name": "tsmonaghan/libstim",
+    "description": "common libs tim loves",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Tsmon\\LibsTim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tim Monaghan",
+            "email": "tsmonaghan@gmail.com"
+        }
+    ],
+    "require": {}
+}
