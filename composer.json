@@ -1,7 +1,7 @@
 {
     "name": "tsmonaghan/libstim",
     "description": "common libs tim loves",
-    "type": "composer-plugin",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Tsmon\\LibsTim\\": "src/"
